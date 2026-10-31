@@ -98,3 +98,4 @@ export function transformMarkdown(buf: Buffer | string): string {
 
   return out.join('\n')
 }
+
